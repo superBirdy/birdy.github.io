@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yayun (Birdy) Chen"
 title_separator          : "-"
-name                     : &name "Birdy"
+name                     : &name "Yayun Chen"
 description              : &description "Energy Economics|Envrionmental Economics|Climate Change|Life Cycle Assessment|Technoeconomic Analysis"
 url                      : https://birdy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=yZhslU0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-2157-2652"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
